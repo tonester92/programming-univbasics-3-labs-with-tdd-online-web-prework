@@ -1,3 +1,3 @@
 # Add your variables here
 
-ball_1 = 1 
+first_number = 1 
